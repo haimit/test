@@ -14,4 +14,4 @@
 --nang cao
 git checkout -b [tên nhánh mới]
 
- git push --set-upstream origin namnguyen //push lên server 
+git push --set-upstream origin namnguyen //push lên server 
