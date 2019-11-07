@@ -13,4 +13,5 @@
 
 --nang cao
 git checkout -b [tên nhánh mới]
-dấdasdasdasdas
+
+ git push --set-upstream origin namnguyen //push lên server 
