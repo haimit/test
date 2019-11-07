@@ -1,4 +1,0 @@
-ls :hien thi toan bo thu muc va file co trong do
-cd <ten thu muc>  tab: Chuyen thu muc sang ...
-cd .. :chuyen ve thu m?c cha
-cd ../.. : chuy?n v? thu m?c root
