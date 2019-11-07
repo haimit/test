@@ -1,0 +1,16 @@
+﻿-cd url   //cd tới đường dẫn 
+-git int //Khởi tạo
+-git  status //Xem trạng thái các file
+-git add [Tên file] //Thêm tên file vào git  hoặc git add . //Thêm all file hiện hành
+-git commit -m "tên commit những gì"
+-git log //Kiểm tra đã gắn file chưa 
+	-git remote add origin [URL file git] //Thêm file lên trên mạng
+	- git push -u origin master
+- git clone [URL] //Lấy source code vê
+-git diff //xem thay đổi 
+- git pull //Lấy commit mới nhất
+
+
+--nang cao
+git checkout -b [tên nhánh mới]
+
