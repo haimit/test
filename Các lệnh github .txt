@@ -15,14 +15,4 @@
 git checkout -b [tên nhánh mới]
 git push --set-upstream origin namnguyen //push lên server 
 =======
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-hahaha 
-
-nam
-nam1
-
-
-sau tất cả mình lại trở về với nhau
-=======
-hoang
+nam commit 
